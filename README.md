@@ -35,12 +35,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 Intake
-This is the initial stage where a support ticket is created.
+This is the initial stage where the support ticket is created.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1195" height="957" alt="Screenshot 2026-10-08 213348" src="https://github.com/user-attachments/assets/9b7c84c0-81f3-49da-9fee-b41f8f745350" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
